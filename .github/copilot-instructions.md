@@ -19,4 +19,5 @@ Este projeto é um site educacional para compartilhar tarefas e exercícios de p
 Ao gerar conteúdo para este projeto:
 
 - **Foco no aprendizado**: Todo conteúdo deve ser elaborado com objetivos de aprendizado claros e níveis de dificuldade apropriados
-- **Amigável ao aluno**: Usar linguagem clara e encorajadora que motive os alunos
+- **Amigável ao aluno**: Usar linguagem clara e encorajadora que motive os alunoss
+
